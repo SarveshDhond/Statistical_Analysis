@@ -1,5 +1,5 @@
 # Statistical Analysis - Python
-### Statistical analysis of House sales in King County USA. This analysis showcases linear regression / multi-linear regression and predictions. 
+#### Statistical analysis of House sales in King County USA. This analysis showcases linear regression / multi-linear regression and predictions. 
 
 ### DATA SOURCE
 #### [kaggle.com](www.kaggle.com)
