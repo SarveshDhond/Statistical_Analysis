@@ -7,7 +7,7 @@
 ## PROJECT AIM
 #### This project aims to showcase my Python skills. I have built models and made predictions that would be useful for solving real-world problems. 
 
-## PYTHON LIBRARIES USED : 
+## PYTHON LIBRARIES USED
 - Pandas
 - Matplotlib
 - Numpy
