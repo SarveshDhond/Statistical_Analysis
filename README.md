@@ -1,13 +1,13 @@
 # Statistical Analysis - Python
 #### Statistical analysis of House sales in King County USA. This analysis showcases linear regression / multi-linear regression and predictions. 
 
-### DATA SOURCE
+## DATA SOURCE
 #### [kaggle.com](www.kaggle.com)
 
-### PROJECT AIM
+## PROJECT AIM
 #### This project aims to showcase my Python skills. I have built models and made predictions that would be useful for solving real-world problems. 
 
-### PYTHON LIBRARIES USED : 
+## PYTHON LIBRARIES USED : 
 - Pandas
 - Matplotlib
 - Numpy
@@ -16,9 +16,9 @@
 
 ## STEPS TAKEN 
 #### Import
-imported the required Python libraries. In this case, I imported Pandas, Matplotlib, Numpy, Seaborn, and Sklearn. This step also involves loading the data set into a dataframe using pandas. I also went ahead and checked data types for all columns before I began the next step. 
+imported the required Python libraries. In this case, I imported Pandas, Matplotlib, Numpy, Seaborn, and Sklearn. This step also involves loading the data set into a data frame using pandas. I also went ahead and checked data types for all columns before I began the next step. 
 #### Data Wrangling
-This step involves cleaning or scrubbing data. I started this step by removing columns Id and Unnamed : as these were not purposeful for further use. Then, I checked for missing values and replaced those missing values with mean values. 
+This step involves cleaning or scrubbing data. I started this step by removing columns Id and Unnamed: as these were not purposeful for further use. Then, I checked for missing values and replaced those missing values with mean values. 
 #### Exploratory data analysis
 I started this step by checking for outliers which can negatively affect by data. I created a boxplot to see if there are any outliers existing in regards to waterfront and price. I also used a scatterplot to see if there was any positive or negative correlation between the square feet of the house and the price. 
 #### Model development
